@@ -2,7 +2,7 @@
 
 This example is hosted at https://incomparable-biscotti-92aa2f.netlify.app/
 
-A React example of the [@dromney/react-gear-gen](github.com/romneyda/react-gear-gen) and [@dromney/gear-gen](github.com/romneyda/gear-gen) packages
+A Typescript React example of the [@dromney/react-gear-gen](github.com/romneyda/react-gear-gen) and [@dromney/gear-gen](github.com/romneyda/gear-gen) packages
 
 ## For local hosting
 
