@@ -9,5 +9,6 @@ A Typescript React example of the [@dromney/react-gear-gen](github.com/romneyda/
 In the project directory, you can run:
 ### `npm start`
 
-Runs the app in the development mode.
+Runs the app in the development mode
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+(Along with other typical react functionality.)
